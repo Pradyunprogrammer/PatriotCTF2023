@@ -24,5 +24,5 @@ None yet
 ### Writeup
 
 Convert the image to words using Gravity falls bill cipher, you will recieve a coordinate list written.
-Convert the words to numbers (ex one -> 1).
+Convert the words to numbers (ex one -> 1).(46.768,-92.124)
 Paste the numbers into a longitude & lattitude coordinate locator.
